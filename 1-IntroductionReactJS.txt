@@ -1,0 +1,17 @@
+(1) REACT JS is a open source of JavaScript
+
+(2)it is used for building interactive user interface and web application quickly and efficient with significantly less code.
+
+NOTE:
+// npm --> used to download the packages in system
+// npx -> same as npm but for one time use karne ke liye 
+
+(3) to Create the New react file (write in terminal)--> 
+npx create-react-app folderName
+exa.npx create-react-app my-app
+
+(4) to start the application -->
+cd my-app
+npm start
+
+in localhost site is open NOW...!
